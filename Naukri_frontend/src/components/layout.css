@@ -1,0 +1,90 @@
+* {
+  font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#login-signup:hover {
+    border-bottom: 1px solid grey;
+}
+
+#overflow {
+    overflow-x: hidden;
+}
+
+#job-new {
+    color: rgb(187, 67, 67);
+}
+
+
+#job-div {
+    padding: 20px;
+}
+
+#job-property {
+    color: grey;
+    background-color: #f0eded;
+    border-radius: 6px;
+    padding: 5px;
+    font-size: 13px;
+    height: 20px;
+}
+
+.cross-button {
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+#job-detail {
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+#go-back {
+    margin-top: 3px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+#confirm {
+    margin-top: 4px;
+    margin-left: 6px;
+}
+
+#job-heading {
+    margin-top: 100px;
+    border: 1px solid black;
+}
+
+#range {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#login-div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#job-card-title-link {
+    color: black;
+    text-decoration: none;
+}
+
+#profile-div {
+  margin-left: 15px;
+}
+
+#login-password-div {
+    margin-top: 10px;
+}
+
+#login-moto {
+    margin-left: 23%;
+}
+
+#validation {
+    margin-top: 5px;
+    color: rgb(241, 84, 84);
+}

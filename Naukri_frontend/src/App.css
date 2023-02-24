@@ -1,0 +1,30 @@
+/* @import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap'); */
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#job-new {
+    color: rgb(187, 67, 67);
+}
+
+
+#job-div {
+    padding: 10px;
+}
+
+#job-property {
+    color: grey;
+    background-color: #f0eded;
+    border-radius: 6px;
+    padding: 5px;
+    font-size: 13px;
+    height: 20px;
+}
+
+.cross-button {
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+}

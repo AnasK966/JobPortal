@@ -1,0 +1,74 @@
+{
+  "jobs": [
+    {
+      "_id": 1,
+      "title": "Manager",
+      "cmpname": "Younus Textile",
+      "cmplocation": "karachi",
+      "postdate": "12-Dec-2023",
+      "jobType": "Full Time",
+      "jobDesc": "asdaiaihsdiasbdasasddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "skillReq": [{ "name": "JS" }, { "name": "Python" }],
+      "salRange": {
+        "minSal": 50000,
+        "maxSal": 100000
+      }
+    },
+    {
+      "_id": 2,
+      "title": "Assistant Manager",
+      "cmpname": "Younus Textile",
+      "cmplocation": "lahore",
+      "postdate": "12-Dec-2023",
+      "jobType": "Part Time",
+      "jobDesc": "asdaiaihsdiasbdasasddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "skillReq": [{ "name": "HTML" }, { "name": "CSS" }],
+      "salRange": {
+        "minSal": 40000,
+        "maxSal": 60000
+      }
+    },
+    {
+      "_id": 3,
+      "title": "Developer",
+      "cmpname": "Younus Textile",
+      "cmplocation": "Karachi",
+      "postdate": "12-Dec-2023",
+      "jobType": "Full Time",
+      "jobDesc": "asdaiaihsdiasbdasasdddddddddddddddddddddddddsssssssssxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssdddddddddddddddddddddddddd",
+      "skillReq": [{ "name": "Block Chain" }, { "name": "Python" }],
+      "salRange": {
+        "minSal": 50000,
+        "maxSal": 70000
+      }
+    },
+    {
+      "_id": 4,
+      "title": "Backend Developer",
+      "cmpname": "Younus Textile",
+      "cmplocation": "Karachi",
+      "postdate": "12-Dec-2023",
+      "jobType": "Full Time",
+      "jobDesc": "asdaiaihsdiasbdasasdddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssdddddddddd",
+      "skillReq": [{ "name": "Node JS" }, { "name": "Express JS" }],
+      "salRange": {
+        "minSal": 40000,
+        "maxSal": 80000
+      }
+    }
+  ],
+  "appliedJobs": [
+    {
+      "cmp_id": 1,
+      "title": "Manager",
+      "cmpname": "Changan",
+      "city": "Karachi"
+    },
+    {
+      "cmp_id": 2,
+      "title": "Senior Manager",
+      "cmpname": "Honda",
+      "city": "Lahore"
+    }
+  ]
+}
